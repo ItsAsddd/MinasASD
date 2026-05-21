@@ -301,7 +301,7 @@ Features:
 ---
 
 <p align="center">
-  <img src="./images/statbeacon.png" width="100%">
+  <img src="./images/statbeacon.gif" width="100%">
 </p>
 
 <p align="center">
@@ -317,7 +317,7 @@ Tracked statistics:
 ---
 
 <p align="center">
-  <img src="./images/beaconeffects.png" width="100%">
+  <img src="./images/beaconeffects.gif" width="100%">
 </p>
 
 <p align="center">
