@@ -111,12 +111,6 @@ This allows:
 
 for every mining area.
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_book.png" width="18"> GUI-Based Workflow
-
-Most command interactions are connected to custom graphical interfaces, reducing complexity and improving management speed for large prison servers.
-
-The objective was to create a workflow that feels modern and scalable instead of relying on old-school static commands.
-
 </details>
 
 ---
@@ -133,8 +127,6 @@ The objective was to create a workflow that feels modern and scalable instead of
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=MINE+CONFIGURATION+SYSTEM" />
 </p>
-
-MinasASD supports completely irregular mine shapes using wool-painted regions.
 
 <details>
 <summary>
@@ -231,15 +223,6 @@ These blocks can:
 - control economy inflation
 - reward progression
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_hopper.png" width="18"> Controlled Generation
-
-The system was designed to avoid:
-- infinite rare farming
-- economy destruction
-- resource abuse
-
-while still making mines feel rewarding and dynamic.
-
 </details>
 
 ---
@@ -277,16 +260,235 @@ This allows servers to completely redesign the mining experience using:
 - progression artifacts
 - custom textures
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_nether_star.png" width="18"> Limitless Creativity
+</details>
 
-Because mines are no longer restricted to vanilla blocks, servers can build:
-- fantasy progression
-- sci-fi mines
-- magical dimensions
-- industrial infrastructures
-- seasonal mining events
+---
 
-without needing additional mine plugins.
+<p align="center">
+  <img src="./images/minaeffect.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="./images/minajugador.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=MINE+EFFECT+SYSTEM" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_beacon.png" width="16">
+View Detailed Effect System
+</summary>
+
+<br>
+
+Each mine inside MinasASD can contain its own independent environmental effect ecosystem.
+
+Effects are not limited to potion effects alone. The system supports gameplay modifiers, ambience systems, particles, sounds and visual distortion mechanics.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_spider_eye.png" width="18"> Environmental Hazards
+
+Possible implementations:
+- toxic mines
+- radiation sectors
+- magical corruption
+- dangerous cave systems
+- low-visibility areas
+- unstable environments
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_glowstone_dust.png" width="18"> Atmosphere & Immersion
+
+The objective was making mines feel alive rather than static resource rooms.
+
+Effects can include:
+- particles
+- sounds
+- fog simulation
+- ambience
+- movement modifiers
+- progression scaling
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/minaholograma.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=MINE+HOLOGRAMS" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_book.png" width="16">
+View Detailed Hologram System
+</summary>
+
+<br>
+
+The hologram system inside MinasASD was designed to provide dynamic mine feedback directly inside the world.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_name_tag.png" width="18"> Dynamic Information
+
+Holograms can display:
+- mine percentages
+- reset timers
+- statistics
+- player rankings
+- mine names
+- placeholders
+- progression data
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_amethyst_cluster.png" width="18"> Visual Customization
+
+Supports:
+- RGB colors
+- gradients
+- multi-line layouts
+- animated text
+- PlaceholderAPI integration
+
+allowing fully customized mine presentations.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/minadrop.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="./images/minacustom.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=CUSTOM+DROPS+SYSTEM" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_emerald.png" width="16">
+View Detailed Drop System
+</summary>
+
+<br>
+
+The custom drop system inside MinasASD was designed to completely replace traditional prison mining rewards.
+
+Instead of simply dropping vanilla blocks, every mine block can generate its own independent reward pool.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_chest_minecart.png" width="18"> ItemStack Support
+
+Supports:
+- custom items
+- enchanted items
+- NBT items
+- keys
+- boosters
+- currencies
+- event materials
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_firework_rocket.png" width="18"> Visual Feedback
+
+Drops can include:
+- particles
+- sounds
+- holograms
+- actionbars
+- animations
+
+making mining significantly more rewarding and immersive.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/infoextra.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=EXTRA+INFORMATION" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_lantern.png" width="16">
+View Additional Infrastructure
+</summary>
+
+<br>
+
+MinasASD also contains a large collection of secondary infrastructure systems designed to improve immersion, compatibility and scalability.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_book.png" width="18"> Supported Integrations
+
+Compatible with:
+- PlaceholderAPI
+- ItemsAdder
+- Oraxen
+- Nexo
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_redstone.png" width="18"> Additional Systems
+
+Includes:
+- RGB display names
+- ActionBars
+- announcements
+- sound systems
+- progression synchronization
+- region linking
+- multi-world support
+
+The objective of MinasASD is not simply regenerating mines, but creating a complete prison infrastructure ecosystem.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/xray.png" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=800&lines=ANTI+XRAY" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_spyglass.png" width="16">
+View Detailed Anti-Xray System
+</summary>
+
+<br>
+
+MinasASD includes a prison-focused Anti-Xray system specifically designed for mine regions.
+
+Unlike traditional Anti-Xray plugins, this system does not affect the entire world.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_barrier.png" width="18"> Smart Obfuscation
+
+The system supports:
+- fake block randomization
+- hidden ores
+- dynamic revealing
+- staff inspection modes
+- player-specific activation
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_iron_pickaxe.png" width="18"> Moderation Support
+
+Useful for:
+- detecting cheaters
+- investigating players
+- preventing ore tracking
+- protecting rare resources
+
+while remaining optimized for prison environments.
 
 </details>
 
@@ -331,27 +533,38 @@ Players must:
 
 creating deeper progression loops.
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_glowstone_dust.png" width="18"> Dynamic Visual Systems
+</details>
 
-Beacons support:
-- particles
-- ambient effects
-- sounds
-- visual pulses
-- progression indicators
+---
 
-making them feel alive inside the world.
+<p align="center">
+  <img src="./images/instancias1.png" width="49%">
+  <img src="./images/instancias2.gif" width="49%">
+</p>
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_gold_ingot.png" width="18"> Reward Integration
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=BEACON+INSTANCES" />
+</p>
 
-Beacon systems can affect:
-- mining speed
-- rewards
-- progression scaling
-- rare drops
-- event multipliers
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_compass.png" width="16">
+View Detailed Beacon Instances
+</summary>
 
-allowing servers to build advanced progression economies.
+<br>
+
+Every beacon works as its own independent runtime instance.
+
+Each instance can:
+- store statistics
+- track owners
+- manage timers
+- apply effects
+- synchronize progression
+- generate bonuses
+
+allowing massive scalability for large prison networks.
 
 </details>
 
@@ -383,25 +596,7 @@ Tracked data includes:
 - activity tracking
 - progression scaling
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_comparator.png" width="18"> Persistent Progression
-
-Statistics are used to:
-- reward activity
-- balance progression
-- support ranking systems
-- enable competitive mining
-- track long-term performance
-
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_name_tag.png" width="18"> Player Identity
-
-Every beacon can track:
-- owner
-- progression level
-- activity
-- bonuses
-- runtime
-
-making beacons feel personal instead of generic structures.
+making beacons feel like persistent progression entities instead of decorative structures.
 
 </details>
 
@@ -425,33 +620,165 @@ View Detailed Beacon Effects
 
 Beacon effects were designed to transform beacon placement into a strategic progression decision.
 
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_sugar.png" width="18"> Gameplay Effects
-
 Possible effects include:
 - speed boosts
 - mining efficiency
 - reward multipliers
 - area buffs
 - progression scaling
-
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_end_crystal.png" width="18"> Visual Atmosphere
-
-Effects can also generate:
 - particles
-- visual pulses
-- magical ambience
-- environmental feedback
-- beacon animations
-
-creating a much more immersive mining environment.
-
-### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_firework_rocket.png" width="18"> Advanced Integration
-
-The system is flexible enough to support:
+- visual ambience
 - event modifiers
-- temporary boosts
-- progression tiers
-- RPG mechanics
-- seasonal systems
+
+making beacon management an important part of the progression ecosystem.
 
 </details>
+
+---
+
+<p align="center">
+  <img src="./images/beaconbooster.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&duration=1&pause=999999&color=D6B37A&center=true&vCenter=true&repeat=false&width=900&lines=BOOSTER+SYSTEM" />
+</p>
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_clock.png" width="16">
+View Detailed Booster System
+</summary>
+
+<br>
+
+Boosters allow players to extend beacon runtime and improve mining progression.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_gold_block.png" width="18"> Progression Scaling
+
+Boosters can:
+- increase activity time
+- improve rewards
+- amplify effects
+- synchronize events
+- support temporary progression
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_firework_rocket.png" width="18"> Event Possibilities
+
+Possible implementations:
+- mining weekends
+- progression events
+- temporary buffs
+- seasonal multipliers
+- competitive activities
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/discord1.png" width="49%">
+  <img src="./images/discord2.png" width="49%">
+</p>
+
+# <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_book.png" width="28"> DISCORD INTEGRATION
+
+<details>
+<summary>
+<img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_writable_book.png" width="16">
+View Detailed Discord Integration
+</summary>
+
+<br>
+
+MinasASD includes a Discord synchronization system allowing direct communication between the server and Discord.
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_bell.png" width="18"> Event Synchronization
+
+Possible events:
+- mine resets
+- progression updates
+- rewards
+- beacon activity
+- player linking
+- server notifications
+
+### <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_comparator.png" width="18"> Cross-Platform Infrastructure
+
+The system was designed to keep Discord and Minecraft synchronized in real time, improving community interaction and server monitoring.
+
+</details>
+
+---
+
+<p align="center">
+  <img src="./images/commands.png" width="100%">
+</p>
+
+# <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_command_block.png" width="28"> COMMANDS
+
+```txt
+/mina
+/mina editar
+/mina effect
+/mina holograma
+/mina actionbar
+/mina drops
+/mina antixray
+
+/beacon
+/beacon add
+/beacon quitar
+/beacon booster
+/beacon stats
+```
+
+---
+
+<p align="center">
+  <img src="./images/perms.png" width="100%">
+</p>
+
+# <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_iron_bars.png" width="28"> PERMISSIONS
+
+```txt
+minaasd.admin
+minaasd.mina
+minaasd.beacon
+minaasd.antixray
+minaasd.discord
+```
+
+---
+
+<p align="center">
+  <img src="./images/download.png" width="100%">
+</p>
+
+# <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_chest.png" width="28"> DOWNLOAD
+
+MinasASD is distributed only as a compiled `.jar`.
+
+The source code remains private because this plugin was developed exclusively for my own Minecraft infrastructure and gameplay ecosystem.
+
+<p align="center">
+  <a href="https://github.com/ItsAsddd/MinasASD/releases">
+    <img src="https://img.shields.io/badge/Download-Latest_Release-D6B37A?style=for-the-badge&labelColor=1B1B1B">
+  </a>
+</p>
+
+---
+
+```txt
+Minecraft Version: 1.21.4
+Server Software: Paper
+Project Type: Personal / Private Infrastructure
+Source Code: Private
+Public Usage: Showcase only
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_beacon.png" width="32">
+  <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_iron_pickaxe.png" width="32">
+  <img src="https://raw.githubusercontent.com/ItsAsddd/ItsAsddd/main/mcicons/minecraft_gold_ingot.png" width="32">
+</p>
